@@ -27,6 +27,11 @@
       "id": "libil2cpp",
       "versionRange": "*",
       "additionalData": {}
+    },
+    {
+      "id": "questui",
+      "versionRange": "*",
+      "additionalData": {}
     }
   ],
   "additionalData": {}

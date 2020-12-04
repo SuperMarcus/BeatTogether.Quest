@@ -35,6 +35,10 @@
 !.vscode/c_cpp_properties.json
 !.vscode/tasks.json
 
+# IDEA stuff
+.idea
+cmake-build-debug
+
 # NDK stuff
 out/
 [Ll]ib/
@@ -45,3 +49,4 @@ ndkpath.txt
 *.zip
 extern/
 qpm.shared.json
+Android.mk.backup
